@@ -10,12 +10,12 @@
 		<link>{{ site.url }}{{ site.baseurl }}</link>
 		<language>{{ site.lang }}</language>
         <copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.title }}</copyright>
-        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:author>Bedsheet Ghost Media</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
         <description>{{ site.description | xml_escape }}</description>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<webMaster>{{ site.email }} (Cypress Frankenfeld)</webMaster>
         <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
+			<itunes:name>Bedsheet Ghost Media</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" />
@@ -27,7 +27,7 @@
 {% for post in site.posts %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
-            <itunes:author>{{ site.author }}</itunes:author>
+            <itunes:author>Bedsheet Ghost Media</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/images/logo.jpg" />
