@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paranormal Distributions Podcast
+title: Paranormal Distributions
 email: iamcypress@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Paranormal Distributions is a biweekly podcast about spooky history, creepy legends and scary stories.
 baseurl: "/paranormal-distributions" # the subpath of your site, e.g. /blog
 url: "https://cypressf.com" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en-us
+author: Bedsheet Ghost Media
 twitter_username: paradistpod
 github_username:  cypressf
 
