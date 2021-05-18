@@ -2,7 +2,7 @@
 layout: post
 title:  "Episode 9: Battle Slave Poké-mausoleum"
 date:   2017-03-04 17:43:43 -0400
-file: "https://archive.org/download/paranormal-distributions/Episode%209%20-%20Battle%20Slave%20Poké-mausoleum.mp3"
+file: "https://archive.org/download/paranormal-distributions/Episode%209%20-%20Battle%20Slave%20Poke%CC%81-mausoleum.mp3"
 summary: "Guest episode with Ben, who is a nerd, talking about the cursed Pokemon Black that brought moral ambiguity into the world of Pokémon (not that Gameboy DS garbage) and a little about Polybius, the mysterious arcade game, perhaps used to recruit children into MK Ultra? Lot's about computers and magic and brains."
 duration: "3118"
 size: "52864558"

@@ -28,6 +28,7 @@ url: "https://cypressf.com" # the base hostname & protocol for your site, e.g. h
 lang: en-us
 twitter_username: paradistpod
 rss: rss
+show_excerpts: true
 
 # Build settings
 theme: minima
